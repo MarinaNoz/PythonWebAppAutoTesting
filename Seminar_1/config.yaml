@@ -1,0 +1,15 @@
+wsdl: http://speller.yandex.net/services/spellservice?WSDL
+url_reg: http://restapi.adequateshop.com/api/authaccount/registration
+url_auth: http://restapi.adequateshop.com/api/authaccount/login
+url_auth_token: http://restapi.adequateshop.com/api/users?page=1
+
+admin: GB202302841a613
+admpas: 6e7686173f
+
+username: Petrucha1
+password: 966f0a27e0
+X-Auth-Token: 1be41c44d3a8e6dd28706a1b6ff47be6
+
+url_auth_gb: https://test-stand.gb.ru/gateway/login
+#url_auth_gb: http://test-stand.gb.ru/gateway/login
+url_posts_gb: https://test-stand.gb.ru/api/posts
